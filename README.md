@@ -5,6 +5,7 @@ Api-only rails app to calculate estimated cost, meat distribution and sharers al
 ---------------------------------
 
 ✅ Feature Overview
+
 🔻 Input:
 animal_type: "cow", "goat", "camel", etc.
 
