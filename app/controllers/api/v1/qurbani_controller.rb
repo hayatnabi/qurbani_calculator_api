@@ -45,7 +45,7 @@ class Api::V1::QurbaniController < ApplicationController
   def default_yield(animal_type)
     case animal_type
     when 'cow' then 55
-    when 'goat' then 50
+    when 'goat' then 40
     when 'camel' then 60
     else 50
     end
